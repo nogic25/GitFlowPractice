@@ -1,2 +1,3 @@
 # GitFlowPractice
-ShowCase git flow
+ShowCase git flow 
+Create a first project Hello World
